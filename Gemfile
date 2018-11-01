@@ -5,6 +5,7 @@ ruby '2.4.4'
 
 #### Elliot's Added Gems####
 gem 'sqlite3'
+gem 'bootstrap-sass'
 #### Elliot's Added Gems####
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
