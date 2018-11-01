@@ -40,7 +40,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
 #Elliot's gems#
-  gem 'sqlite3'
+  #gem 'sqlite3'
 #Elliot's gems#
 
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
