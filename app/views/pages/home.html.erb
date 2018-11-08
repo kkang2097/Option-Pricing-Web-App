@@ -1,11 +1,13 @@
 <html>
-<body>
+<body bgcolor="#ffffcc">
   <h1>Enter desired ticker below</h1>
   <form>
     Ticker: <br>
-    <input type = "text" ticker = "ticker"><br>
+    <input type = "text" name = "ticker"><br>
+    <input type="submit" value="Submit">
   </form>
-  <%= link_to 'About', about_path %>
+  <%= link_to 'About', about_path %><br>
+  <%= Time.now%>
 
 </body>
 </html>
